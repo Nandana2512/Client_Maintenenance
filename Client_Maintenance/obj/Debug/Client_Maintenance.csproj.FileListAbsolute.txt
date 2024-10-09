@@ -1,0 +1,10 @@
+D:\PROGRAMMING\2023\Winter\Client_Maintenance\Client_Maintenance\bin\Debug\Client_Maintenance.exe.config
+D:\PROGRAMMING\2023\Winter\Client_Maintenance\Client_Maintenance\bin\Debug\Client_Maintenance.exe
+D:\PROGRAMMING\2023\Winter\Client_Maintenance\Client_Maintenance\bin\Debug\Client_Maintenance.pdb
+D:\PROGRAMMING\2023\Winter\Client_Maintenance\Client_Maintenance\obj\Debug\Client_Maintenance.csproj.AssemblyReference.cache
+D:\PROGRAMMING\2023\Winter\Client_Maintenance\Client_Maintenance\obj\Debug\Client_Maintenance.GUI.FormClients.resources
+D:\PROGRAMMING\2023\Winter\Client_Maintenance\Client_Maintenance\obj\Debug\Client_Maintenance.Properties.Resources.resources
+D:\PROGRAMMING\2023\Winter\Client_Maintenance\Client_Maintenance\obj\Debug\Client_Maintenance.csproj.GenerateResource.cache
+D:\PROGRAMMING\2023\Winter\Client_Maintenance\Client_Maintenance\obj\Debug\Client_Maintenance.csproj.CoreCompileInputs.cache
+D:\PROGRAMMING\2023\Winter\Client_Maintenance\Client_Maintenance\obj\Debug\Client_Maintenance.exe
+D:\PROGRAMMING\2023\Winter\Client_Maintenance\Client_Maintenance\obj\Debug\Client_Maintenance.pdb
